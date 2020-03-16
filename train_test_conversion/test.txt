@@ -1,0 +1,7 @@
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00046.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00096.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00146.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00196.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00246.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00296.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00346.jpg
