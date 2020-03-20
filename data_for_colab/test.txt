@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /content/darknet/data_for_colab/data/IMG00046.jpg
 /content/darknet/data_for_colab/data/IMG00096.jpg
 /content/darknet/data_for_colab/data/IMG00146.jpg
@@ -5,3 +6,12 @@
 /content/darknet/data_for_colab/data/IMG00246.jpg
 /content/darknet/data_for_colab/data/IMG00296.jpg
 /content/darknet/data_for_colab/data/IMG00346.jpg
+=======
+/content/darknet/data_for_colab/data/IMG00046.jpg
+/content/darknet/data_for_colab/data/IMG00096.jpg
+/content/darknet/data_for_colab/data/IMG00146.jpg
+/content/darknet/data_for_colab/data/IMG00196.jpg
+/content/darknet/data_for_colab/data/IMG00246.jpg
+/content/darknet/data_for_colab/data/IMG00296.jpg
+/content/darknet/data_for_colab/data/IMG00346.jpg
+>>>>>>> 2df43f6212e4bba7d30628449cb5d7ae358c8783
