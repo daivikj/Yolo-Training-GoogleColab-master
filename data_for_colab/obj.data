@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 classes= 13  
+=======
+classes= 13 
+>>>>>>> 8633cd1efe7b38b93202f4747238115dff3d5e0d
 train  = /content/darknet/data_for_colab/train.txt  
 valid  = /content/darknet/data_for_colab/test.txt  
 names = /content/darknet/data_for_colab/obj.names  
