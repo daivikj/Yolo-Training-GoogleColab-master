@@ -1,17 +1,46 @@
-<<<<<<< HEAD
-/content/darknet/data_for_colab/data/IMG00046.jpg
-/content/darknet/data_for_colab/data/IMG00096.jpg
-/content/darknet/data_for_colab/data/IMG00146.jpg
-/content/darknet/data_for_colab/data/IMG00196.jpg
-/content/darknet/data_for_colab/data/IMG00246.jpg
-/content/darknet/data_for_colab/data/IMG00296.jpg
-/content/darknet/data_for_colab/data/IMG00346.jpg
-=======
-/content/darknet/data_for_colab/data/IMG00046.jpg
-/content/darknet/data_for_colab/data/IMG00096.jpg
-/content/darknet/data_for_colab/data/IMG00146.jpg
-/content/darknet/data_for_colab/data/IMG00196.jpg
-/content/darknet/data_for_colab/data/IMG00246.jpg
-/content/darknet/data_for_colab/data/IMG00296.jpg
-/content/darknet/data_for_colab/data/IMG00346.jpg
->>>>>>> 2df43f6212e4bba7d30628449cb5d7ae358c8783
+/content/darknet/data_for_colab/data/aa.jpg
+/content/darknet/data_for_colab/data/ak.jpg
+/content/darknet/data_for_colab/data/as.jpg
+/content/darknet/data_for_colab/data/bb.jpg
+/content/darknet/data_for_colab/data/bm.jpg
+/content/darknet/data_for_colab/data/bw.jpg
+/content/darknet/data_for_colab/data/ci.jpg
+/content/darknet/data_for_colab/data/cs.jpg
+/content/darknet/data_for_colab/data/download.jpg
+/content/darknet/data_for_colab/data/images (1).jpg
+/content/darknet/data_for_colab/data/IMG00028.jpg
+/content/darknet/data_for_colab/data/IMG00118.jpg
+/content/darknet/data_for_colab/data/IMG00208.jpg
+/content/darknet/data_for_colab/data/IMG00298.jpg
+/content/darknet/data_for_colab/data/IMG00388.jpg
+/content/darknet/data_for_colab/data/IMG00478.jpg
+/content/darknet/data_for_colab/data/IMG00568.jpg
+/content/darknet/data_for_colab/data/img_003.jpg
+/content/darknet/data_for_colab/data/img_012 (2).jpg
+/content/darknet/data_for_colab/data/img_019.jpg
+/content/darknet/data_for_colab/data/img_027.jpg
+/content/darknet/data_for_colab/data/img_036.jpg
+/content/darknet/data_for_colab/data/img_044.jpg
+/content/darknet/data_for_colab/data/img_052 (2).jpg
+/content/darknet/data_for_colab/data/img_058.jpg
+/content/darknet/data_for_colab/data/img_064 (2).jpg
+/content/darknet/data_for_colab/data/img_071.jpg
+/content/darknet/data_for_colab/data/mb.jpg
+/content/darknet/data_for_colab/data/mn.jpg
+/content/darknet/data_for_colab/data/ne.jpg
+/content/darknet/data_for_colab/data/ny.jpg
+/content/darknet/data_for_colab/data/pexels-photo-1055691.jpg
+/content/darknet/data_for_colab/data/pexels-photo-1249546.jpg
+/content/darknet/data_for_colab/data/pexels-photo-1384219.jpg
+/content/darknet/data_for_colab/data/pexels-photo-1576937.jpg
+/content/darknet/data_for_colab/data/pexels-photo-1753137.jpg
+/content/darknet/data_for_colab/data/pexels-photo-1882003.jpg
+/content/darknet/data_for_colab/data/pexels-photo-209960.jpg
+/content/darknet/data_for_colab/data/pexels-photo-373934.jpg
+/content/darknet/data_for_colab/data/pexels-photo-594610.jpg
+/content/darknet/data_for_colab/data/pexels-photo-821416.jpg
+/content/darknet/data_for_colab/data/rt0ceeafasvvohrqproipfxhvryqhjahws05sbietlz1aeivfs2atxotptzpk0ae-.jpg
+/content/darknet/data_for_colab/data/scene00081.jpg
+/content/darknet/data_for_colab/data/scene00181.jpg
+/content/darknet/data_for_colab/data/scene00281.jpg
+/content/darknet/data_for_colab/data/scene00381.jpg

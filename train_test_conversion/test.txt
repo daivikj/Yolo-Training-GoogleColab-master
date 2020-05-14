@@ -1,7 +1,46 @@
-C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00046.jpg
-C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00096.jpg
-C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00146.jpg
-C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00196.jpg
-C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00246.jpg
-C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00296.jpg
-C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00346.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/aa.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/ak.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/as.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/bb.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/bm.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/bw.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/ci.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/cs.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/download.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/images (1).jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00028.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00118.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00208.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00298.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00388.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00478.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/IMG00568.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/img_003.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/img_012 (2).jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/img_019.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/img_027.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/img_036.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/img_044.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/img_052 (2).jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/img_058.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/img_064 (2).jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/img_071.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/mb.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/mn.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/ne.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/ny.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/pexels-photo-1055691.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/pexels-photo-1249546.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/pexels-photo-1384219.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/pexels-photo-1576937.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/pexels-photo-1753137.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/pexels-photo-1882003.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/pexels-photo-209960.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/pexels-photo-373934.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/pexels-photo-594610.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/pexels-photo-821416.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/rt0ceeafasvvohrqproipfxhvryqhjahws05sbietlz1aeivfs2atxotptzpk0ae-.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/scene00081.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/scene00181.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/scene00281.jpg
+C:/Users/daivi/Yolo-Training-GoogleColab-master/annotated/scene00381.jpg
